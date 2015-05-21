@@ -11,6 +11,7 @@ import java.io.IOException;
 
 /**
  * Created by DH on 5/15/2015.
+ * Chung nhim
  */
 public class PlayMusicOnline implements MediaPlayer.OnCompletionListener, MediaPlayer.OnPreparedListener, MediaPlayer.OnBufferingUpdateListener {
     private MediaPlayer mediaPlayer;
